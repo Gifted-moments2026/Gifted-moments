@@ -1,0 +1,36 @@
+GIFTED MOMENTS — UPUTE ZA UREĐIVANJE
+
+1. GLAVNA DATOTEKA
+   index.html = tekstovi, cijene, linkovi, nazivi paketa.
+   style.css = boje, veličine, izgled stranice.
+
+2. SLIKE
+   U folder "images" stavi svoje fotografije i nazovi ih:
+   glavna-slika.svg ili .jpg
+   mali-paket.svg ili .jpg
+   srednji-paket.svg ili .jpg
+   premium-paket.svg ili .jpg
+   personalizirani-paket.svg ili .jpg
+
+   Ako želiš drugi naziv slike, promijeni ga u index.html u src="images/NAZIV.svg ili .jpg"
+
+3. WHATSAPP BROJ
+   U index.html pronađi:
+   385000000000
+   i zamijeni svojim brojem u međunarodnom formatu, bez + i bez razmaka.
+   Primjer: 385991234567
+
+4. INSTAGRAM
+   Pronađi:
+   https://instagram.com/
+   i zamijeni svojim Instagram linkom.
+
+5. CIJENE I OPISI
+   Sve ih možeš promijeniti direktno u index.html.
+
+6. MOBITEL
+   Datoteke možeš uređivati preko GitHub web stranice ili aplikacije za uređivanje teksta/koda.
+   Za najjednostavnije održavanje preporuka je GitHub Pages.
+
+VAŽNO:
+Ako slika ne postoji, stranica će prikazati prazno mjesto za tu fotografiju.
