@@ -1,4 +1,4 @@
-* {
+⁸* {
   box-sizing: border-box;
 }
 
@@ -292,4 +292,10 @@ footer {
   .btn {
     width: 100%;
   }
+}
+#baby .product img {
+  width: 100%;
+  height: 430px;
+  object-fit: cover;
+  object-position: center;
 }
