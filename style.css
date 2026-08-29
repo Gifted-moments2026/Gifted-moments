@@ -305,3 +305,16 @@ footer {
   object-fit: contain;
   background: white;
 }
+.nav {
+  flex-wrap: wrap;
+}
+
+.tagline {
+  width: 100%;
+  margin: -8px 0 6px;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 500;
+  color: #b15f63;
+  letter-spacing: 0.4px;
+}
