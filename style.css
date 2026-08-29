@@ -338,3 +338,16 @@ footer {
     margin-top: 10px;
   }
 }
+@media (max-width: 768px) {
+  .nav {
+    row-gap: 4px;
+  }
+
+  .tagline {
+    margin-bottom: 2px;
+  }
+
+  .nav nav {
+    margin-top: 2px;
+  }
+}
